@@ -12,3 +12,4 @@ Hay diferente tipos de fotos:
   * Planas: Fotos tomadas con celular o cámaras de acción - Action Cams.
 * Trazas: Trazas GPX tomadas en terreno, que ayudar a alinear la ortofoto.
 
+Todos los archivos (fotos, ortofotos, trazas) de este repositorio están bajo dominio público.
