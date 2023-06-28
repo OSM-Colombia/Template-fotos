@@ -4,8 +4,9 @@ Estas son las fotos capturadas el día: YYYY-MM-DD
 
 Hay diferente tipos de fotos:
 
-* Drone: Las fotos tomadas en el dron. Igualmente se encuentra el plan de vuelo generado por Litchi.
+* Drone: Las fotos tomadas en el drone. Igualmente se encuentra el plan de vuelo generado por Litchi.
   * GCP: Puntos de control a nivel de terreno. Tanto el GPX como la foto para ubicarlo.
+  * Vuelo: Plan de vuelo para capturar las fotos.
 * Ortofoto: La ortofoto generada a partir de las fotos del drone.
 * Terreno: Fotos a nivel de terreno.
   * 360: Fotos capturadas con cámaras 360.
