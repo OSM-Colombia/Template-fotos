@@ -1,6 +1,9 @@
 # Fotos: Localidad YYY - UPZ XXX - Barrio ZZZ
 
-Estas son las fotos capturadas el día: YYYY-MM-DD
+Estas son las fechas de captura de las fotos:
+
+* Aéreas desde drone: YYYY-MM-DD
+* A nivel de calle: YYYY-MM-DD
 
 Hay diferente tipos de fotos:
 
