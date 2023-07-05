@@ -1,9 +1,12 @@
 # Fotos: Localidad YYY - UPZ XXX - Barrio ZZZ
 
+<img width="500" alt="Zona de trabajo" src="Zona de trabajo.png">
+
 Estas son las fechas de captura de las fotos:
 
 * Aéreas desde drone: YYYY-MM-DD
 * A nivel de calle: YYYY-MM-DD
+  * Secuencia en Mapillary:
 
 Hay diferente tipos de fotos:
 
