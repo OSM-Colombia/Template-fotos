@@ -23,5 +23,6 @@ for i in $(seq -f %02g 1 ${MAX_NUM}) ; do
  git commit ortofoto.z${i} -m "Parte zip" ;
  git push ;
 done
+```
 
 NOTA: Este tipo de foto ya casi no se publica en el repositorio GitHub por su gran tamaño, lo cual es restringido por los límites de GitHub. En contraste, se prefiere publicar las fotos en OpenAerialMap, servicio que permite usarlas en editores como JOSM sin necesidad de descargarlas.
